@@ -1,8 +1,29 @@
 .navbar {
 	background-color: antiquewhite;
 }
+ .name {
+ 	font-family: 'Audiowide', cursive;
+ 	font-size: 3em;
+ 	margin-right: 40px;
+ }
+
+.navlink {
+	font-style: italic;
+	font-weight: bold;
+}
 
 .intro {
-	background: linear-gradient(to bottom, antiquewhite 0%, darkgrey 100%);
+	background: linear-gradient(to bottom, antiquewhite 0%, #e0ccff 100%);
+}
 
+.bio {
+	background: linear-gradient(to bottom, #e0ccff 0%, darkgrey 100%);
+}
+
+.mission {
+	background: linear-gradient(to bottom, darkgrey 0%, antiquewhite 100%);
+}
+
+.news {
+	background: linear-gradient(to bottom, antiquewhite 0%, white 100%);
 }
