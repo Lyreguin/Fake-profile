@@ -74,3 +74,7 @@ dt {
 .news {
 	background: linear-gradient(to bottom, antiquewhite 0%, white 100%);
 }
+
+.fb-page {
+	width:100%;
+}
