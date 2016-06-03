@@ -3,21 +3,68 @@
 }
  .name {
  	font-family: 'Audiowide', cursive;
- 	font-size: 3em;
+ 	font-size: 2em;
  	margin-right: 40px;
  }
 
 .navlink {
 	font-style: italic;
 	font-weight: bold;
+	font-size: 1.1em;
 }
 
 .intro {
-	background: linear-gradient(to bottom, antiquewhite 0%, #e0ccff 100%);
+	background: linear-gradient(to bottom, antiquewhite 0%, #ff7c51 50%);
 }
 
+.quote {
+	font-size: 1.6em;
+	color: black;
+	font-family: Helvetica;
+}
+	
+dt {
+ 	margin-top: 10%;
+ }
+
 .bio {
-	background: linear-gradient(to bottom, #e0ccff 0%, darkgrey 100%);
+	background: linear-gradient(to bottom, #ff7c51 0%, darkgrey 100%);
+}
+
+ ul {
+ 	margin-top: 50px;
+ 	list-style-type: none;
+ }
+
+ .int-list {
+ 	text-align: right;
+ }
+
+ .interests {
+ 	color: lemonchiffon;
+ 	font-size: 1.8em;
+ 	font-family: 'Passion One', cursive;
+ }
+
+
+.section-head {
+		font-family: 'Audiowide', cursive;
+
+}
+
+.bio-p {
+	margin-top: 60px;
+	font-size: 1.4em;
+	font-family: sans-serif;
+	padding-left: 15px;
+	font-weight: bold;
+	text-align: left;
+}
+
+.splash {
+	margin-top: 70px;
+	width: 120%;
+	border: 2px darkslategrey solid ;
 }
 
 .mission {
